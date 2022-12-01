@@ -1,0 +1,21 @@
+Code,Country,Region,Landlocked,First Language,Population,Life Exp.
+AF,Afghanistan,Asia,No,English,27101365,59.61
+HT,Haiti,North America,No,French,10110019,45
+NG,Nigeria,Africa,No,English,186988000,51.3
+EG,Egypt,Africa,No,Arabic,90369500,70.48
+AR,Argentina,South America,No,Spanish,43590400,75.77
+CN,China,Asia,No,Chinese,1357000000,74.87
+BR,Brazil,South America,No,Portugeuse,200400000,73.12
+IL,Israel,Asia,No,Hebrew,8049314,81.3
+US,United States,North America,No,English,321068000,78.51
+IE,Ireland,Europe,No,Irish,4635400,80.15
+GB,United Kingdom,Europe,No,English,65097000,80.09
+DE,Germany,Europe,No,German,81459000,80.24
+CA,Canada,North America,No,English,35985751,80.99
+AU,Australia,Oceania,No,English,23992700,82.09
+SE,Sweden,Europe,No,Swedish,9845155,81.43
+NZ,New Zealand,Oceania,No,English,4659070,80.67
+NE,Niger,Africa,Yes,French,18045729,55.13
+TD,Chad,Africa,Yes,Arabic,11631456,49.81
+CH,Switzerland,Europe,Yes,German,8121830,82.5
+PY,Paraguay,South America,Yes,Spanish,6783272,76.99
