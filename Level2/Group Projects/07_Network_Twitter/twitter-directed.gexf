@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-03-30">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="apbusiness" label="apbusiness" />
+      <node id="bbcbusiness" label="bbcbusiness" />
+      <node id="bbcworldbiz" label="bbcworldbiz" />
+      <node id="business" label="business" />
+      <node id="businessdesk" label="businessdesk" />
+      <node id="businessinsider" label="businessinsider" />
+      <node id="bw" label="bw" />
+      <node id="cnnbusiness" label="cnnbusiness" />
+      <node id="entrepreneur" label="entrepreneur" />
+      <node id="fastcompany" label="fastcompany" />
+      <node id="financialtimes" label="financialtimes" />
+      <node id="forbes" label="forbes" />
+      <node id="foxbusiness" label="foxbusiness" />
+      <node id="ft" label="ft" />
+      <node id="ftfinancenews" label="ftfinancenews" />
+      <node id="harvardbiz" label="harvardbiz" />
+      <node id="indobusiness" label="indobusiness" />
+      <node id="irishtimesbiz" label="irishtimesbiz" />
+      <node id="markets" label="markets" />
+      <node id="marketwatch" label="marketwatch" />
+      <node id="nasdaq" label="nasdaq" />
+      <node id="nbcnewsbusiness" label="nbcnewsbusiness" />
+      <node id="nytimesbusiness" label="nytimesbusiness" />
+      <node id="reutersbiz" label="reutersbiz" />
+      <node id="reutersmoney" label="reutersmoney" />
+      <node id="telebusiness" label="telebusiness" />
+      <node id="thestreet" label="thestreet" />
+      <node id="usatodaymoney" label="usatodaymoney" />
+      <node id="wsj" label="wsj" />
+      <node id="wsjbusiness" label="wsjbusiness" />
+      <node id="wsjecon" label="wsjecon" />
+      <node id="yahoofinance" label="yahoofinance" />
+      <node id="yahoofinanceuk" label="yahoofinanceuk" />
+    </nodes>
+    <edges>
+      <edge source="apbusiness" target="bbcbusiness" id="0" />
+      <edge source="apbusiness" target="business" id="1" />
+      <edge source="apbusiness" target="businessinsider" id="2" />
+      <edge source="apbusiness" target="bw" id="3" />
+      <edge source="apbusiness" target="cnnbusiness" id="4" />
+      <edge source="apbusiness" target="fastcompany" id="5" />
+      <edge source="apbusiness" target="financialtimes" id="6" />
+      <edge source="apbusiness" target="forbes" id="7" />
+      <edge source="apbusiness" target="foxbusiness" id="8" />
+      <edge source="apbusiness" target="ft" id="9" />
+      <edge source="apbusiness" target="ftfinancenews" id="10" />
+      <edge source="apbusiness" target="markets" id="11" />
+      <edge source="apbusiness" target="marketwatch" id="12" />
+      <edge source="apbusiness" target="nasdaq" id="13" />
+      <edge source="apbusiness" target="nbcnewsbusiness" id="14" />
+      <edge source="apbusiness" target="nytimesbusiness" id="15" />
+      <edge source="apbusiness" target="reutersbiz" id="16" />
+      <edge source="apbusiness" target="thestreet" id="17" />
+      <edge source="apbusiness" target="usatodaymoney" id="18" />
+      <edge source="apbusiness" target="wsj" id="19" />
+      <edge source="apbusiness" target="wsjbusiness" id="20" />
+      <edge source="apbusiness" target="wsjecon" id="21" />
+      <edge source="apbusiness" target="yahoofinance" id="22" />
+      <edge source="bbcworldbiz" target="bbcbusiness" id="23" />
+      <edge source="business" target="bbcbusiness" id="24" />
+      <edge source="business" target="businessinsider" id="25" />
+      <edge source="business" target="bw" id="26" />
+      <edge source="business" target="cnnbusiness" id="27" />
+      <edge source="business" target="financialtimes" id="28" />
+      <edge source="business" target="forbes" id="29" />
+      <edge source="business" target="foxbusiness" id="30" />
+      <edge source="business" target="ft" id="31" />
+      <edge source="business" target="harvardbiz" id="32" />
+      <edge source="business" target="markets" id="33" />
+      <edge source="business" target="marketwatch" id="34" />
+      <edge source="business" target="nytimesbusiness" id="35" />
+      <edge source="business" target="reutersbiz" id="36" />
+      <edge source="business" target="wsj" id="37" />
+      <edge source="businessdesk" target="bbcbusiness" id="38" />
+      <edge source="businessdesk" target="business" id="39" />
+      <edge source="businessdesk" target="businessinsider" id="40" />
+      <edge source="businessdesk" target="cnnbusiness" id="41" />
+      <edge source="businessdesk" target="fastcompany" id="42" />
+      <edge source="businessdesk" target="financialtimes" id="43" />
+      <edge source="businessdesk" target="forbes" id="44" />
+      <edge source="businessdesk" target="ft" id="45" />
+      <edge source="businessdesk" target="ftfinancenews" id="46" />
+      <edge source="businessdesk" target="harvardbiz" id="47" />
+      <edge source="businessdesk" target="irishtimesbiz" id="48" />
+      <edge source="businessdesk" target="marketwatch" id="49" />
+      <edge source="businessdesk" target="nasdaq" id="50" />
+      <edge source="businessdesk" target="nbcnewsbusiness" id="51" />
+      <edge source="businessdesk" target="nytimesbusiness" id="52" />
+      <edge source="businessdesk" target="reutersbiz" id="53" />
+      <edge source="businessdesk" target="telebusiness" id="54" />
+      <edge source="businessdesk" target="usatodaymoney" id="55" />
+      <edge source="businessdesk" target="wsj" id="56" />
+      <edge source="businessdesk" target="wsjbusiness" id="57" />
+      <edge source="businessdesk" target="wsjecon" id="58" />
+      <edge source="businessinsider" target="business" id="59" />
+      <edge source="businessinsider" target="bw" id="60" />
+      <edge source="businessinsider" target="cnnbusiness" id="61" />
+      <edge source="businessinsider" target="financialtimes" id="62" />
+      <edge source="businessinsider" target="forbes" id="63" />
+      <edge source="businessinsider" target="nasdaq" id="64" />
+      <edge source="businessinsider" target="nytimesbusiness" id="65" />
+      <edge source="businessinsider" target="wsj" id="66" />
+      <edge source="businessinsider" target="yahoofinance" id="67" />
+      <edge source="bw" target="business" id="68" />
+      <edge source="bw" target="businessinsider" id="69" />
+      <edge source="bw" target="ft" id="70" />
+      <edge source="bw" target="markets" id="71" />
+      <edge source="bw" target="reutersbiz" id="72" />
+      <edge source="bw" target="wsj" id="73" />
+      <edge source="cnnbusiness" target="bbcbusiness" id="74" />
+      <edge source="cnnbusiness" target="business" id="75" />
+      <edge source="cnnbusiness" target="businessinsider" id="76" />
+      <edge source="cnnbusiness" target="fastcompany" id="77" />
+      <edge source="cnnbusiness" target="ftfinancenews" id="78" />
+      <edge source="cnnbusiness" target="harvardbiz" id="79" />
+      <edge source="cnnbusiness" target="nasdaq" id="80" />
+      <edge source="cnnbusiness" target="usatodaymoney" id="81" />
+      <edge source="cnnbusiness" target="wsj" id="82" />
+      <edge source="cnnbusiness" target="yahoofinance" id="83" />
+      <edge source="entrepreneur" target="bbcbusiness" id="84" />
+      <edge source="entrepreneur" target="foxbusiness" id="85" />
+      <edge source="entrepreneur" target="harvardbiz" id="86" />
+      <edge source="entrepreneur" target="nbcnewsbusiness" id="87" />
+      <edge source="entrepreneur" target="nytimesbusiness" id="88" />
+      <edge source="fastcompany" target="bw" id="89" />
+      <edge source="fastcompany" target="cnnbusiness" id="90" />
+      <edge source="fastcompany" target="financialtimes" id="91" />
+      <edge source="fastcompany" target="forbes" id="92" />
+      <edge source="fastcompany" target="ft" id="93" />
+      <edge source="fastcompany" target="harvardbiz" id="94" />
+      <edge source="fastcompany" target="nytimesbusiness" id="95" />
+      <edge source="financialtimes" target="bbcbusiness" id="96" />
+      <edge source="financialtimes" target="business" id="97" />
+      <edge source="financialtimes" target="businessdesk" id="98" />
+      <edge source="financialtimes" target="businessinsider" id="99" />
+      <edge source="financialtimes" target="cnnbusiness" id="100" />
+      <edge source="financialtimes" target="fastcompany" id="101" />
+      <edge source="financialtimes" target="forbes" id="102" />
+      <edge source="financialtimes" target="ft" id="103" />
+      <edge source="financialtimes" target="ftfinancenews" id="104" />
+      <edge source="financialtimes" target="marketwatch" id="105" />
+      <edge source="financialtimes" target="nasdaq" id="106" />
+      <edge source="financialtimes" target="nbcnewsbusiness" id="107" />
+      <edge source="financialtimes" target="nytimesbusiness" id="108" />
+      <edge source="financialtimes" target="reutersbiz" id="109" />
+      <edge source="financialtimes" target="usatodaymoney" id="110" />
+      <edge source="financialtimes" target="wsj" id="111" />
+      <edge source="financialtimes" target="wsjbusiness" id="112" />
+      <edge source="financialtimes" target="wsjecon" id="113" />
+      <edge source="forbes" target="business" id="114" />
+      <edge source="forbes" target="bw" id="115" />
+      <edge source="forbes" target="fastcompany" id="116" />
+      <edge source="forbes" target="foxbusiness" id="117" />
+      <edge source="forbes" target="harvardbiz" id="118" />
+      <edge source="forbes" target="nasdaq" id="119" />
+      <edge source="forbes" target="thestreet" id="120" />
+      <edge source="forbes" target="wsj" id="121" />
+      <edge source="foxbusiness" target="apbusiness" id="122" />
+      <edge source="foxbusiness" target="business" id="123" />
+      <edge source="foxbusiness" target="entrepreneur" id="124" />
+      <edge source="foxbusiness" target="forbes" id="125" />
+      <edge source="foxbusiness" target="marketwatch" id="126" />
+      <edge source="foxbusiness" target="reutersbiz" id="127" />
+      <edge source="foxbusiness" target="thestreet" id="128" />
+      <edge source="foxbusiness" target="wsj" id="129" />
+      <edge source="foxbusiness" target="wsjecon" id="130" />
+      <edge source="ft" target="bbcbusiness" id="131" />
+      <edge source="ft" target="business" id="132" />
+      <edge source="ft" target="businessdesk" id="133" />
+      <edge source="ft" target="bw" id="134" />
+      <edge source="ft" target="cnnbusiness" id="135" />
+      <edge source="ft" target="fastcompany" id="136" />
+      <edge source="ft" target="financialtimes" id="137" />
+      <edge source="ft" target="forbes" id="138" />
+      <edge source="ft" target="ftfinancenews" id="139" />
+      <edge source="ft" target="harvardbiz" id="140" />
+      <edge source="ft" target="marketwatch" id="141" />
+      <edge source="ft" target="nasdaq" id="142" />
+      <edge source="ft" target="nbcnewsbusiness" id="143" />
+      <edge source="ft" target="nytimesbusiness" id="144" />
+      <edge source="ft" target="reutersbiz" id="145" />
+      <edge source="ft" target="usatodaymoney" id="146" />
+      <edge source="ft" target="wsj" id="147" />
+      <edge source="ft" target="wsjbusiness" id="148" />
+      <edge source="ft" target="wsjecon" id="149" />
+      <edge source="ftfinancenews" target="financialtimes" id="150" />
+      <edge source="ftfinancenews" target="ft" id="151" />
+      <edge source="indobusiness" target="ft" id="152" />
+      <edge source="irishtimesbiz" target="businessdesk" id="153" />
+      <edge source="irishtimesbiz" target="fastcompany" id="154" />
+      <edge source="irishtimesbiz" target="ft" id="155" />
+      <edge source="irishtimesbiz" target="harvardbiz" id="156" />
+      <edge source="irishtimesbiz" target="indobusiness" id="157" />
+      <edge source="irishtimesbiz" target="nytimesbusiness" id="158" />
+      <edge source="markets" target="business" id="159" />
+      <edge source="markets" target="bw" id="160" />
+      <edge source="markets" target="telebusiness" id="161" />
+      <edge source="marketwatch" target="wsj" id="162" />
+      <edge source="marketwatch" target="wsjbusiness" id="163" />
+      <edge source="nasdaq" target="apbusiness" id="164" />
+      <edge source="nasdaq" target="bbcbusiness" id="165" />
+      <edge source="nasdaq" target="business" id="166" />
+      <edge source="nasdaq" target="businessdesk" id="167" />
+      <edge source="nasdaq" target="businessinsider" id="168" />
+      <edge source="nasdaq" target="bw" id="169" />
+      <edge source="nasdaq" target="cnnbusiness" id="170" />
+      <edge source="nasdaq" target="entrepreneur" id="171" />
+      <edge source="nasdaq" target="fastcompany" id="172" />
+      <edge source="nasdaq" target="financialtimes" id="173" />
+      <edge source="nasdaq" target="forbes" id="174" />
+      <edge source="nasdaq" target="foxbusiness" id="175" />
+      <edge source="nasdaq" target="ft" id="176" />
+      <edge source="nasdaq" target="ftfinancenews" id="177" />
+      <edge source="nasdaq" target="harvardbiz" id="178" />
+      <edge source="nasdaq" target="markets" id="179" />
+      <edge source="nasdaq" target="marketwatch" id="180" />
+      <edge source="nasdaq" target="nbcnewsbusiness" id="181" />
+      <edge source="nasdaq" target="nytimesbusiness" id="182" />
+      <edge source="nasdaq" target="reutersbiz" id="183" />
+      <edge source="nasdaq" target="thestreet" id="184" />
+      <edge source="nasdaq" target="usatodaymoney" id="185" />
+      <edge source="nasdaq" target="wsj" id="186" />
+      <edge source="nasdaq" target="wsjbusiness" id="187" />
+      <edge source="nasdaq" target="wsjecon" id="188" />
+      <edge source="nasdaq" target="yahoofinance" id="189" />
+      <edge source="nbcnewsbusiness" target="apbusiness" id="190" />
+      <edge source="nbcnewsbusiness" target="bbcbusiness" id="191" />
+      <edge source="nbcnewsbusiness" target="business" id="192" />
+      <edge source="nbcnewsbusiness" target="businessinsider" id="193" />
+      <edge source="nbcnewsbusiness" target="bw" id="194" />
+      <edge source="nbcnewsbusiness" target="cnnbusiness" id="195" />
+      <edge source="nbcnewsbusiness" target="entrepreneur" id="196" />
+      <edge source="nbcnewsbusiness" target="fastcompany" id="197" />
+      <edge source="nbcnewsbusiness" target="financialtimes" id="198" />
+      <edge source="nbcnewsbusiness" target="forbes" id="199" />
+      <edge source="nbcnewsbusiness" target="ft" id="200" />
+      <edge source="nbcnewsbusiness" target="harvardbiz" id="201" />
+      <edge source="nbcnewsbusiness" target="marketwatch" id="202" />
+      <edge source="nbcnewsbusiness" target="nasdaq" id="203" />
+      <edge source="nbcnewsbusiness" target="nytimesbusiness" id="204" />
+      <edge source="nbcnewsbusiness" target="reutersbiz" id="205" />
+      <edge source="nbcnewsbusiness" target="reutersmoney" id="206" />
+      <edge source="nbcnewsbusiness" target="usatodaymoney" id="207" />
+      <edge source="nbcnewsbusiness" target="wsj" id="208" />
+      <edge source="nbcnewsbusiness" target="wsjbusiness" id="209" />
+      <edge source="nbcnewsbusiness" target="yahoofinance" id="210" />
+      <edge source="nytimesbusiness" target="business" id="211" />
+      <edge source="nytimesbusiness" target="businessinsider" id="212" />
+      <edge source="nytimesbusiness" target="cnnbusiness" id="213" />
+      <edge source="nytimesbusiness" target="forbes" id="214" />
+      <edge source="nytimesbusiness" target="ft" id="215" />
+      <edge source="nytimesbusiness" target="harvardbiz" id="216" />
+      <edge source="nytimesbusiness" target="nbcnewsbusiness" id="217" />
+      <edge source="nytimesbusiness" target="reutersbiz" id="218" />
+      <edge source="nytimesbusiness" target="thestreet" id="219" />
+      <edge source="nytimesbusiness" target="usatodaymoney" id="220" />
+      <edge source="nytimesbusiness" target="wsj" id="221" />
+      <edge source="nytimesbusiness" target="yahoofinance" id="222" />
+      <edge source="reutersbiz" target="financialtimes" id="223" />
+      <edge source="reutersbiz" target="ft" id="224" />
+      <edge source="reutersbiz" target="reutersmoney" id="225" />
+      <edge source="reutersmoney" target="business" id="226" />
+      <edge source="reutersmoney" target="bw" id="227" />
+      <edge source="reutersmoney" target="cnnbusiness" id="228" />
+      <edge source="reutersmoney" target="financialtimes" id="229" />
+      <edge source="reutersmoney" target="forbes" id="230" />
+      <edge source="reutersmoney" target="ft" id="231" />
+      <edge source="reutersmoney" target="marketwatch" id="232" />
+      <edge source="reutersmoney" target="nasdaq" id="233" />
+      <edge source="reutersmoney" target="reutersbiz" id="234" />
+      <edge source="reutersmoney" target="usatodaymoney" id="235" />
+      <edge source="reutersmoney" target="wsj" id="236" />
+      <edge source="reutersmoney" target="wsjecon" id="237" />
+      <edge source="reutersmoney" target="yahoofinance" id="238" />
+      <edge source="telebusiness" target="bbcbusiness" id="239" />
+      <edge source="telebusiness" target="business" id="240" />
+      <edge source="telebusiness" target="businessdesk" id="241" />
+      <edge source="telebusiness" target="businessinsider" id="242" />
+      <edge source="telebusiness" target="bw" id="243" />
+      <edge source="telebusiness" target="cnnbusiness" id="244" />
+      <edge source="telebusiness" target="financialtimes" id="245" />
+      <edge source="telebusiness" target="forbes" id="246" />
+      <edge source="telebusiness" target="foxbusiness" id="247" />
+      <edge source="telebusiness" target="ft" id="248" />
+      <edge source="telebusiness" target="ftfinancenews" id="249" />
+      <edge source="telebusiness" target="marketwatch" id="250" />
+      <edge source="telebusiness" target="nbcnewsbusiness" id="251" />
+      <edge source="telebusiness" target="nytimesbusiness" id="252" />
+      <edge source="telebusiness" target="reutersbiz" id="253" />
+      <edge source="telebusiness" target="usatodaymoney" id="254" />
+      <edge source="telebusiness" target="wsj" id="255" />
+      <edge source="telebusiness" target="wsjbusiness" id="256" />
+      <edge source="telebusiness" target="wsjecon" id="257" />
+      <edge source="telebusiness" target="yahoofinanceuk" id="258" />
+      <edge source="thestreet" target="bw" id="259" />
+      <edge source="thestreet" target="forbes" id="260" />
+      <edge source="thestreet" target="foxbusiness" id="261" />
+      <edge source="thestreet" target="nasdaq" id="262" />
+      <edge source="thestreet" target="nytimesbusiness" id="263" />
+      <edge source="thestreet" target="reutersbiz" id="264" />
+      <edge source="thestreet" target="usatodaymoney" id="265" />
+      <edge source="thestreet" target="yahoofinance" id="266" />
+      <edge source="usatodaymoney" target="bbcbusiness" id="267" />
+      <edge source="usatodaymoney" target="business" id="268" />
+      <edge source="usatodaymoney" target="businessinsider" id="269" />
+      <edge source="usatodaymoney" target="bw" id="270" />
+      <edge source="usatodaymoney" target="cnnbusiness" id="271" />
+      <edge source="usatodaymoney" target="fastcompany" id="272" />
+      <edge source="usatodaymoney" target="financialtimes" id="273" />
+      <edge source="usatodaymoney" target="forbes" id="274" />
+      <edge source="usatodaymoney" target="ft" id="275" />
+      <edge source="usatodaymoney" target="ftfinancenews" id="276" />
+      <edge source="usatodaymoney" target="harvardbiz" id="277" />
+      <edge source="usatodaymoney" target="marketwatch" id="278" />
+      <edge source="usatodaymoney" target="nasdaq" id="279" />
+      <edge source="usatodaymoney" target="nbcnewsbusiness" id="280" />
+      <edge source="usatodaymoney" target="nytimesbusiness" id="281" />
+      <edge source="usatodaymoney" target="reutersbiz" id="282" />
+      <edge source="usatodaymoney" target="reutersmoney" id="283" />
+      <edge source="usatodaymoney" target="thestreet" id="284" />
+      <edge source="usatodaymoney" target="wsj" id="285" />
+      <edge source="usatodaymoney" target="wsjbusiness" id="286" />
+      <edge source="usatodaymoney" target="wsjecon" id="287" />
+      <edge source="usatodaymoney" target="yahoofinance" id="288" />
+      <edge source="wsj" target="marketwatch" id="289" />
+      <edge source="wsj" target="wsjbusiness" id="290" />
+      <edge source="wsj" target="wsjecon" id="291" />
+      <edge source="wsjbusiness" target="harvardbiz" id="292" />
+      <edge source="wsjbusiness" target="wsj" id="293" />
+      <edge source="wsjbusiness" target="wsjecon" id="294" />
+      <edge source="wsjecon" target="wsj" id="295" />
+      <edge source="wsjecon" target="wsjbusiness" id="296" />
+      <edge source="yahoofinance" target="business" id="297" />
+      <edge source="yahoofinance" target="nasdaq" id="298" />
+      <edge source="yahoofinance" target="nytimesbusiness" id="299" />
+      <edge source="yahoofinance" target="reutersmoney" id="300" />
+      <edge source="yahoofinance" target="usatodaymoney" id="301" />
+      <edge source="yahoofinance" target="yahoofinanceuk" id="302" />
+      <edge source="yahoofinanceuk" target="bbcbusiness" id="303" />
+      <edge source="yahoofinanceuk" target="ft" id="304" />
+      <edge source="yahoofinanceuk" target="ftfinancenews" id="305" />
+      <edge source="yahoofinanceuk" target="telebusiness" id="306" />
+      <edge source="yahoofinanceuk" target="yahoofinance" id="307" />
+    </edges>
+  </graph>
+</gexf>
